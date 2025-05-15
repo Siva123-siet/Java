@@ -1,2 +1,2 @@
-# Core Java
-Full stack developer course
+# Devops
+Devops course
